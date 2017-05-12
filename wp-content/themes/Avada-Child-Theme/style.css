@@ -7,3 +7,31 @@ Template: Avada
 Version: 1.0.0
 Text Domain:  Avada
 */
+
+.menu-text {
+	text-transform: uppercase;
+}
+
+.fusion-logo {
+	background-color: #c69b4e;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	padding: 20px;
+}
+
+.fusion-main-menu a{
+	border-color: transparent !important;
+}
+
+.img-traiteur img{
+	text-align: right;
+}
+
+.img-responsive {
+	width: 100%;
+}
+
+.fusion-footer-widget-area {
+	border-top: 0px solid #e9eaee;
+	border-top-width: 0px !important;
+}
